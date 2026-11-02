@@ -1,0 +1,11 @@
+rank,poi_id,poi_name,lat,lng,demand_raw,pois_nearby,demand_index,nearest_chaayos_km,chaayos_in_radius,cannib_pressure,nearest_direct_km,direct_in_radius,comp_pressure,premium_cafes_in_radius,poi_type,opportunity_score
+1,4,Sahara Mall,28.479,77.086,44.972,10,46.243,0.629,1,0.371,1.406,0,0.0,3,mall,47.8
+2,85,Orchid Business Park,28.426,77.037,37.214,10,37.336,1.701,0,0.0,0.861,1,0.139,1,office_park,42.2
+3,73,Sewa Tower,28.492,77.079,43.674,15,44.753,0.959,1,0.041,0.16,2,0.907,1,office_park,35.7
+4,11,Baani Square,28.426,77.058,32.782,10,32.249,0.656,1,0.344,2.04,0,0.0,1,mall,29.0
+5,93,DLF World Techpark (DLF IT SEZ),28.465,77.056,24.075,9,22.253,0.779,1,0.221,1.2,0,0.0,2,office_park,24.2
+6,14,Hong Kong Bazaar,28.421,77.091,16.34,3,13.373,1.248,0,0.0,1.096,0,0.0,1,mall,16.2
+7,32,Sushant Shopping Arcade,28.461,77.079,19.376,8,16.858,0.779,3,0.514,0.65,1,0.35,5,mall,14.6
+8,42,Elan Town Centre,28.384,77.054,14.955,3,11.783,0.992,1,0.008,2.242,0,0.0,1,mall,14.1
+9,88,International Tech Park Gurgaon,28.408,77.117,16.263,6,13.285,1.022,0,0.0,1.135,0,0.0,0,office_park,13.3
+10,7,Dreamz Mall,28.473,77.018,13.896,5,10.567,3.157,0,0.0,2.961,0,0.0,0,mall,10.6
