@@ -1,56 +1,6 @@
-SELECT VERSION();
--- create database chaayos_db;
--- CREATE DATABASE IF NOT EXISTS chaayos_db;
--- USE chaayos_db;
-CREATE TABLE outlets (
-  outlet_id      INT PRIMARY KEY,
-  outlet_name    VARCHAR(150),
-  location_name  VARCHAR(100),
-  sector         VARCHAR(10),
-  outlet_type    VARCHAR(30),
-  rating         DECIMAL(2,1),
-  review_count   INT,
-  latitude       DECIMAL(10,7),
-  longitude      DECIMAL(10,7)
-);
-
-CREATE TABLE poi (
-  poi_id         INT PRIMARY KEY,
-  poi_name       VARCHAR(150),
-  poi_type       VARCHAR(30),
-  rating         DECIMAL(2,1) NULL,
-  review_count   INT NULL,
-  latitude       DECIMAL(10,7),
-  longitude      DECIMAL(10,7)
-);
-
-CREATE TABLE direct_competitors (
-  competitor_id  INT PRIMARY KEY,
-  brand          VARCHAR(50),
-  outlet_name    VARCHAR(150),
-  location_name  VARCHAR(100),
-  rating         DECIMAL(2,1) NULL,
-  review_count   INT NULL,
-  latitude       DECIMAL(10,7),
-  longitude      DECIMAL(10,7)
-);
-
-CREATE TABLE indirect_competitors (
-  cafe_id        INT PRIMARY KEY,
-  brand          VARCHAR(50),
-  outlet_name    VARCHAR(150),
-  rating         DECIMAL(2,1),
-  review_count   INT,
-  latitude       DECIMAL(10,7),
-  longitude      DECIMAL(10,7)
-);
--- ---------------------------------------------------
--- PART - II 
 -- =====================================================================
--- 01_load_data.sql : creates the database, the 4 tables and loads all data
--- HOW TO RUN: MySQL Workbench > File > Open SQL Script > pick this file,
--- then press Ctrl+Shift+Enter (runs the whole file). Safe to run again.
--- =====================================================================
+-- Chaayos location analysis: where should the next outlet open in Gurugram?
+-- ################ PART 1: CREATE DATABASE, TABLES AND LOAD DATA ################
 DROP DATABASE IF EXISTS chaayos_location;
 CREATE DATABASE chaayos_location;
 USE chaayos_location;
@@ -415,14 +365,7 @@ SELECT 'poi', COUNT(*) FROM poi UNION ALL
 SELECT 'direct_competitors', COUNT(*) FROM direct_competitors UNION ALL
 SELECT 'indirect_cafes', COUNT(*) FROM indirect_cafes;
 
--- ===========================================================
--- PART - III
--- =====================================================================
--- 02_analysis_queries.sql : full analysis, in the order of the project story
--- HOW TO RUN: run 01_load_data.sql first. Then open this file and run it
--- section by section: select one section, press Ctrl+Enter.
--- (Sections 3 and 4 BUILD tables, so run them in order, top to bottom.)
--- =====================================================================
+-- ################ PART 2: ANALYSIS (sections 1 to 6) ################
 USE chaayos_location;
 
 -- =====================================================================
@@ -618,33 +561,3 @@ SELECT o.outlet_name, o.review_count,
        RANK() OVER (ORDER BY od.demand_raw DESC)  AS demand_rank
 FROM outlet_demand od JOIN outlets o ON o.outlet_id = od.outlet_id
 ORDER BY busyness_rank LIMIT 15;
-
--- =======================================================================================================
--- PART - IV
-
-SET @sep_km = 1.5;
-
--- 1. Top 15 candidates
-SELECT poi_name, poi_type, opportunity_score, ROUND(demand_index,1) AS demand_index,
-       chaayos_in_radius, ROUND(nearest_chaayos_km,2) AS nearest_chaayos_km, direct_in_radius, premium_cafes_in_radius
-FROM candidate_scores ORDER BY opportunity_score DESC LIMIT 15;
-
--- 2. Final shortlist (different parts of the city)
-SELECT a.poi_name, a.poi_type, a.opportunity_score, ROUND(a.demand_index,1) AS demand_index, a.pois_nearby,
-       a.chaayos_in_radius, ROUND(a.nearest_chaayos_km,2) AS nearest_chaayos_km, a.direct_in_radius, a.premium_cafes_in_radius
-FROM candidate_scores a
-WHERE NOT EXISTS (
-    SELECT 1 FROM candidate_scores b
-    WHERE b.opportunity_score > a.opportunity_score
-      AND ST_Distance_Sphere(POINT(a.lng, a.lat), POINT(b.lng, b.lat)) / 1000 < @sep_km)
-ORDER BY a.opportunity_score DESC LIMIT 10;
-
--- 3. White space: high demand, no Chaayos and no direct competitor nearby
-SELECT poi_name, poi_type, ROUND(demand_index,1) AS demand_index, premium_cafes_in_radius, ROUND(nearest_chaayos_km,2) AS nearest_chaayos_km
-FROM candidate_scores
-WHERE chaayos_in_radius = 0 AND direct_in_radius = 0
-ORDER BY demand_index DESC LIMIT 10;
-
--- 4. Validation: average demand percentile of the 34 existing outlets (50 = random)
-SELECT ROUND(AVG(100 * (SELECT AVG(cd.demand_raw < od.demand_raw) FROM cand_demand cd))) AS avg_outlet_percentile
-FROM outlet_demand od;
