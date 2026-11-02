@@ -1,0 +1,57 @@
+cafe_id,brand,outlet_name,rating,review_count,latitude,longitude
+1,Blue Tokai,Blue Tokai Coffee Roasters | Sikanderpur,4.4,1151,28.4804701,77.0925178
+2,Blue Tokai,Blue Tokai Coffee Roasters | Galleria Market,4.4,783,28.4673879,77.0821819
+3,Blue Tokai,Blue Tokai Coffee Roasters | Elan Miracle,4.7,395,28.4154153,76.9638966
+4,Blue Tokai,Blue Tokai Coffee Roasters Origins | Ireo Sector 58,4.8,238,28.4164638,77.1020087
+5,Blue Tokai,Blue Tokai Coffee Roasters | Golf Course Road,4.4,236,28.4453275,77.1014571
+6,Blue Tokai,Blue Tokai Coffee Roasters | Nirvana Courtyard,4.2,235,28.414425,77.0656084
+7,Blue Tokai,Blue Tokai Coffee Roasters | Ambience Mall,4.5,233,28.502561,77.0973084
+8,Blue Tokai,Blue Tokai Coffee Roasters | Indiabulls Commercial One 09,4.7,227,28.505361,77.010278
+9,Blue Tokai,Blue Tokai Coffee Roasters | AIPL Joy Street,4.5,216,28.3920944,77.0593958
+10,Blue Tokai,Blue Tokai Coffee Roasters | Global Foyer,4.8,157,28.5115833,77.0396944
+11,Blue Tokai,Blue Tokai Coffee Roasters | Vatika Atrium,4.4,149,28.4401782,77.1020334
+12,Blue Tokai,Blue Tokai Coffee Roasters | AIPL Joy Central,4.7,141,28.4050719,77.0605578
+13,Blue Tokai,Blue Tokai Coffee Roasters | Good Earth Sixty 9,4.7,139,28.391143,77.0313372
+14,Blue Tokai,Blue Tokai Coffee Roasters | ROF Portico,4.4,115,28.4530051,77.0822881
+15,Blue Tokai,Blue Tokai Coffee Roasters | Cyber Hub,4.4,108,28.4951464,77.0886317
+16,Blue Tokai,Blue Tokai Coffee Roasters | AMB Selfie Street,4.8,104,28.407251,76.922194
+17,Blue Tokai,Blue Tokai Coffee Roasters | Spaze Boulevard,4.6,97,28.4185833,77.0408056
+18,Blue Tokai,Blue Tokai Coffee Roasters | VLPL Sector 83,4.6,81,28.397171,76.963501
+19,Blue Tokai,"Blue Tokai Coffee Roasters | Metro World Mall, Gurgaon",4.6,70,28.4288478,77.0996876
+20,Blue Tokai,Blue Tokai Coffee Roasters | M3M Paragon 57,4.9,65,28.4182637,77.0814912
+21,Blue Tokai,Blue Tokai Coffee Roasters | Felix Plaza,4.6,60,28.3830035,76.9302693
+22,Blue Tokai,Blue Tokai Coffee Roasters | Summit Plaza,4.8,41,28.446444,77.106056
+23,Blue Tokai,Blue Tokai Coffee Roasters | DLF Cyber Park,4.5,32,28.502722,77.090639
+24,Blue Tokai,Blue Tokai Coffee Roasters | DLF Downtown 4,4.9,29,28.5033056,77.0959722
+25,Starbucks,Starbucks - Dlf Cyber City,4.4,2836,28.4956832,77.0888688
+26,Starbucks,Starbucks - Sector 54,4.4,2507,28.4351267,77.1047784
+27,Starbucks,Starbucks - DLF Phase IV,4.4,1991,28.4675632,77.0822905
+28,Starbucks,Starbucks - Sector 49,4.4,1523,28.406101,77.045251
+29,Starbucks,Starbucks - Sector 15,4.5,949,28.461614,77.049805
+30,Starbucks,Starbucks - Sector 43,4.5,899,28.4510446,77.098231
+31,Starbucks,Starbucks Coffee | Sector 49 | Gurugram,4.5,855,28.4199934,77.0501327
+32,Starbucks,Starbucks Coffee | Sector 65 | Gurugram,4.6,760,28.3978149,77.0718711
+33,Starbucks,Starbucks Reserve - Sector 42,4.6,572,28.4604161,77.0968303
+34,Starbucks,Starbucks Coffee | Sector 85 | Gurugram,4.7,461,28.4031514,76.9480345
+35,Starbucks,Starbucks - Sector 52,4.8,454,28.4451799,77.0807295
+36,Starbucks,Starbucks Coffee | MG Road | Gurugram,4.8,260,28.4803875,77.0926892
+37,Starbucks,Starbucks,4.7,203,28.5031842,77.0898946
+38,Starbucks,Starbucks,4.7,120,28.4938836,77.0929155
+39,Starbucks,Starbucks - Sector 21,4.4,114,28.5103738,77.0717233
+40,Starbucks,Starbucks Coffee | Golf Course Road | Gurugram,4.6,61,28.4159355,77.1021856
+41,Starbucks,Starbucks - Cyber City,5.0,10,28.4891928,77.0916331
+42,Third Wave Coffee,Third Wave Coffee - Golf Course Road,4.6,1539,28.4336857,77.1051533
+43,Third Wave Coffee,Third Wave Coffee - Platina Towers,4.7,1114,28.4805245,77.0928026
+44,Third Wave Coffee,Third Wave Coffee - Vatika Business Park,4.6,716,28.4062453,77.045254
+45,Third Wave Coffee,Third Wave Coffee - Sushant Lok,4.7,615,28.4511527,77.0817631
+46,Third Wave Coffee,Third Wave Coffee - AIPL Business Club,4.8,448,28.4016361,77.0848661
+47,Third Wave Coffee,Third Wave Coffee - Fortis Hospital,4.8,346,28.4574655,77.0726615
+48,Third Wave Coffee,Third Wave Coffee - Vensej Mall,4.5,129,28.4154775,77.079384
+49,Third Wave Coffee,Third Wave Coffee - DLF Star Tower,4.6,128,28.4608188,77.051825
+50,Third Wave Coffee,Third Wave Coffee - DLF Galleria Market,4.8,91,28.4671064,77.0817526
+51,Third Wave Coffee,Third Wave Coffee - Iris Broadway,4.8,76,28.403975,76.9480796
+52,Third Wave Coffee,Third Wave Coffee,4.8,71,28.5097648,77.071539
+53,Third Wave Coffee,Third Wave Coffee - Nirvana Courtyard,4.3,71,28.4139524,77.065843
+54,Third Wave Coffee,Third Wave Coffee - Capital CyberScape,4.7,61,28.4011739,77.1015165
+55,Third Wave Coffee,Third Wave Coffee - DLF Saltstayz,4.2,47,28.4661122,77.0994343
+56,Third Wave Coffee,Third Wave Coffee - Felix Plaza,3.4,19,28.3831228,76.9654937

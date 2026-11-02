@@ -1,0 +1,35 @@
+outlet_id,outlet_name,location_name,sector,outlet_type,rating,review_count,latitude,longitude
+1,Chaayos Cafe | Central Plaza Mall | Sector 53,Central Plaza Mall,53,mall,4.2,3842,28.4430101,77.1009004
+2,Chaayos Cafe | Galleria Market | Sector 28,Galleria Market,28,street,4.2,3923,28.4673879,77.0821819
+3,Chaayos Cafe | 83 Avenue | Sector 83,83 Avenue,83,mall,4.2,130,28.3970404,76.9632194
+4,Chaayos Cafe | Reach 3 Road | Sector 70,Reach 3 Road,70,street,4.3,257,28.3909625,77.0305084
+5,Chaayos Cafe | Iris Broadway | Sector 85,Iris Broadway,85,mall,4.2,396,28.4040275,76.9479222
+6,Chaayos Experience | Magnum Global Park,Magnum Global Park,,office_park,4.7,327,28.4116083,77.1069559
+7,Chaayos Cafe | Satya The Hive Mall | Sector 102,Satya The Hive Mall,102,mall,4.5,42,28.4714015,76.962975
+8,Chaayos Cafe | DLF Cyber Greens | Sector 24,DLF Cyber Greens,24,office_park,4.4,166,28.4941497,77.0929735
+9,Chaayos Cafe | Felix Plaza Mall | Sector 82A,Felix Plaza Mall,82A,mall,4.7,23,28.3829925,76.96666
+10,Chaayos Cafe | Golf Course Road | Sector 54,Golf Course Road,54,street,4.2,158,28.4352763,77.1046987
+11,Chaayos Cafe | Artemis Hospital | Sector 51,Artemis Hospital,51,hospital,4.6,24,28.4316368,77.0722561
+12,Chaayos - Good Earth City Center,Good Earth City Center,,mall,4.1,1087,28.4214481,77.0531627
+13,Chaayos Cafe at Cyber Hub,Cyber Hub,,office_park,4.3,418,28.4949194,77.0882806
+14,Chaayos Cafe | Capital Cyberscape | Sector 59,Capital Cyberscape,59,office_park,4.2,70,28.4006649,77.10427
+15,Chaayos Cafe | Ardee Mall | Sector 52,Ardee Mall,52,mall,4.2,452,28.4451466,77.0807682
+16,Chaayos Cafe | Elan Miracle | Sector 84,Elan Miracle,84,mall,4.3,134,28.4149328,76.9637266
+17,Chaayos Cafe | AIPL Joy Street | Sector 66,AIPL Joy Street,66,mall,4.2,253,28.3921489,77.0591471
+18,Chaayos Cafe | Khasrupur | Sector 109,Khasrupur,109,street,4.3,135,28.5040689,77.0048946
+19,Chaayos Cafe | One Horizon Centre | Sector 43,One Horizon Centre,43,office_park,4.2,438,28.4509678,77.0979383
+20,Chaayos Cafe | Sohna Road | Sector 49,Sohna Road,49,office_park,4.2,570,28.4060331,77.0448114
+21,Chaayos Cafe | DLF Cyberpark | Sector 20,DLF Cyberpark,20,office_park,4.6,207,28.5036323,77.0894518
+22,Chaayos Experience | Sikandarpur,Sikandarpur,,office_park,4.5,743,28.4804159,77.0926211
+23,Chaayos Cafe | Metro World Mall,Metro World Mall,,mall,3.9,142,28.4288478,77.0996876
+24,Chaayos Cafe | M3M Route 65 | Sector 65,M3M Route 65,65,mall,4.4,18,28.3988243,77.0750521
+25,Chaayos Cafe | Unitech InfoSpace | Sector 21,Unitech InfoSpace,21,office_park,4.5,297,28.5097702,77.0717282
+26,Chaayos Cafe | Sushant Lok | Sector 43,Sushant Lok,43,street,4.3,268,28.4530527,77.0824365
+27,"Chaayos Cafe At Downtown Sec 29, Gurgaon",Downtown,29,mall,4.4,44,28.4633544,77.0669966
+28,Chaayos Cafe | Galaxy Road | Sector 15,Galaxy Road,15,street,4.3,41,28.4633882,77.0482003
+29,Chaayos Cafe | Nirvana Courtyard,Nirvana Courtyard,,mall,4.5,123,28.4144005,77.0654617
+30,Chaayos Cafe | Fortis Memorial | Sector 44,Fortis Memorial,44,hospital,4.3,30,28.4567324,77.0727312
+31,Chaayos Cafe at DLF Cyber City - Building 5,DLF Cyber City Building 5,,office_park,4.2,719,28.4899373,77.0920985
+32,Chaayos Cafe at Ambience Mall,Ambience Mall,,mall,4.0,244,28.5047166,77.0970095
+33,Chaayos Cafe | Global Foyer Mall | Palam Vihar,Global Foyer Mall,,mall,4.4,29,28.5111279,77.0401721
+34,Chaayos Cafe | Infinity Tower | Cyber City,Infinity Tower,,office_park,4.4,2161,28.4962872,77.0910943

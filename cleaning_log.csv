@@ -1,0 +1,531 @@
+source,name,reason
+malls,Reliance SMART Bazaar,not a mall (brand store / metro / office)
+malls,"Zudio - Mall 51, Gurugram",not a mall (brand store / metro / office)
+malls,Millennium City Centre Gurugram,not a mall (brand store / metro / office)
+malls,Shoppers Stop Ltd - Gurgaon Metropolitan,not a mall (brand store / metro / office)
+malls,Worldmark,not a mall (brand store / metro / office)
+malls,Dlf phase 1 shopping mall,not a mall (brand store / metro / office)
+malls,Shoppers Stop Ltd - Spaze Gurgaon,not a mall (brand store / metro / office)
+malls,Lifestyle Stores,not a mall (brand store / metro / office)
+malls,Spar Hypermarket,not a mall (brand store / metro / office)
+malls,"Pantaloons (Esplanade Mall, Gurugram)",not a mall (brand store / metro / office)
+malls,"Mia by Tanishq - MGF Metropolitan Mall, Gurugram",not a mall (brand store / metro / office)
+malls,"Westside - TRILLIUM AVENUE, Gurgaon",not a mall (brand store / metro / office)
+malls,"Sri Ram & Son - Metropolis Mall, Gurugram",brand store inside a mall
+malls,"VIVIBLU - MGF Metropolitan Mall, Gurugram",brand store inside a mall
+malls,Reliance Centro,brand store inside a mall
+malls,"Max - MGF Metropolis Mall, Gurgaon",brand store inside a mall
+malls,"Max - Ardee City Mall, Gurgaon",brand store inside a mall
+malls,"Manasvi , MGF Metropolitan Mall",brand store inside a mall
+malls,Gurugram,not a mall / generic row
+malls,SWAGSTER,not a mall / generic row
+malls,Shopping Mall Condominium Association,not a mall / generic row
+malls,Gurgaon Tiles Mall,not a mall / generic row
+malls,Old Judicial Complex,not a mall / generic row
+malls,canoe store sector 14 Gurugram,not a mall / generic row
+malls,Gurgaon Mega Mart,not a mall / generic row
+malls,The Vensej Mall,fewer than 100 reviews (too small / unreliable)
+malls,HIGH STREET 52 GURUGRAM,fewer than 100 reviews (too small / unreliable)
+malls,GRAND SQUARE CENTRAL GURUGRAM,fewer than 100 reviews (too small / unreliable)
+malls,"DLF Mall of India, Gurgaon",fewer than 100 reviews (too small / unreliable)
+malls,CITY EMPORIO,fewer than 100 reviews (too small / unreliable)
+malls,DHEERAJ SHOPPING CENTRE,fewer than 100 reviews (too small / unreliable)
+malls,Tms Dlf Phase 1 Shopping Mall Market,fewer than 100 reviews (too small / unreliable)
+malls,MGF Metropolitan Mall,fewer than 100 reviews (too small / unreliable)
+malls,PGM Plaza,fewer than 100 reviews (too small / unreliable)
+malls,Dhoot Time Arcade,fewer than 100 reviews (too small / unreliable)
+malls,"Golden Jubilee Complex, Sector 12, Gurgaon",fewer than 100 reviews (too small / unreliable)
+malls,Fabulous Shopping,fewer than 100 reviews (too small / unreliable)
+malls,Athena,fewer than 100 reviews (too small / unreliable)
+malls,street shopping and eating,duplicate (within 100 m of a bigger/better row)
+malls,horizon 1 mall,duplicate (within 100 m of a bigger/better row)
+malls,Omex mall,duplicate (within 100 m of a bigger/better row)
+office_park,Jaruis India Private Limited,not an office park (store / ATM / company / amusement)
+office_park,"Zudio - Vipul Business Park, Gurugram",not an office park (store / ATM / company / amusement)
+office_park,Vatika Business Park,not an office park (store / ATM / company / amusement)
+office_park,ICICI Bank ATM - Gurugram - Vatika Business Park,not an office park (store / ATM / company / amusement)
+office_park,SkyJumper Trampoline and Amusement Park,not an office park (store / ATM / company / amusement)
+office_park,"Regus - Gurugram, Unitech Cyber Park",not an office park (store / ATM / company / amusement)
+office_park,"IBM India, TRIL, Tata Intellion Park",not an office park (store / ATM / company / amusement)
+office_park,Vipul Business Park,not an office park (store / ATM / company / amusement)
+office_park,"Sky Laser Tag - Gurgaon, ILD Trade Centre",not an office park (store / ATM / company / amusement)
+office_park,International Tech Park - Parking,not an office park
+office_park,"Croma - Capital Business Park, Sohna Road",not an office park
+office_park,"Avanta Business Centre - Park Centra, Gurgaon",duplicate (within 150 m of a bigger/better row)
+office_park,TATA INTELION PARK,duplicate (within 150 m of a bigger/better row)
+office_park,"Vatika Business Park, Block 3",duplicate (within 150 m of a bigger/better row)
+office_park,"Ascendas IT Park, Gurgaon",duplicate (within 150 m of a bigger/better row)
+office_park,Hans Business Park,duplicate (within 150 m of a bigger/better row)
+office_park,Spaze Tech Park,duplicate (within 150 m of a bigger/better row)
+office_park,Global Business Park Tower A,duplicate (within 150 m of a bigger/better row)
+office_park,International Tech Park Gurgaon Block 3,duplicate (within 150 m of a bigger/better row)
+office_park,"DLF World Techpark, Silokhera, Block B Gurugram",duplicate (within 150 m of a bigger/better row)
+office_park,Capital Business Park,duplicate (within 150 m of a bigger/better row)
+office_park,UNITECH BUSINESS PARK,duplicate (within 150 m of a bigger/better row)
+office_park,Capital Business Park,duplicate (within 150 m of a bigger/better row)
+office_park,International Tech Park,duplicate (within 150 m of a bigger/better row)
+office_park,Vipul Business Park,duplicate (within 150 m of a bigger/better row)
+office_park,Smartworks Golf View Towers,Golf Course Rd file: not a building/major employer
+office_park,MPD Tower,Golf Course Rd file: not a building/major employer
+office_park,alt.f MPD Tower,Golf Course Rd file: not a building/major employer
+office_park,24 Work Club Golf Course Road,Golf Course Rd file: not a building/major employer
+office_park,"The Office Pass (TOP), Golf Course Road, Gurgaon",Golf Course Rd file: not a building/major employer
+office_park,DLF Centre Court,Golf Course Rd file: not a building/major employer
+office_park,The Executive Centre - Two Horizon Center,Golf Course Rd file: not a building/major employer
+office_park,Veritas,Golf Course Rd file: not a building/major employer
+office_park,CESTA Enterprise Pvt. Ltd.,Golf Course Rd file: not a building/major employer
+office_park,DLF Pinnacle,Golf Course Rd file: not a building/major employer
+office_park,Paras Buildtech India Private Limited,Golf Course Rd file: not a building/major employer
+office_park,Oracle,Golf Course Rd file: not a building/major employer
+office_park,Godrej GCR Project | Sales Office,Golf Course Rd file: not a building/major employer
+office_park,Marriott Area Office Gurgaon,Golf Course Rd file: not a building/major employer
+office_park,Gurgaon Commercial,Golf Course Rd file: not a building/major employer
+office_park,DLF Cyberpark Tower A Gurugram,Golf Course Rd file: not a building/major employer
+office_park,Desker Coworking Golf Course Road,Golf Course Rd file: not a building/major employer
+office_park,PINNACLE CONDOMINIUM OFFICE,Golf Course Rd file: not a building/major employer
+office_park,DLF The Aureva,Golf Course Rd file: not a building/major employer
+office_park,Amplior,Golf Course Rd file: not a building/major employer
+office_park,Awfis Augusta Point Parsvnath Exotica,Golf Course Rd file: not a building/major employer
+office_park,Qdesq - Coworking Space In Gurgaon,Golf Course Rd file: not a building/major employer
+office_park,Hexagon Geosystems India Pvt. Ltd.,Golf Course Rd file: not a building/major employer
+office_park,Ocus Group,Golf Course Rd file: not a building/major employer
+office_park,Coworkkeys - Golf Course Road,Golf Course Rd file: not a building/major employer
+office_park,"Infinity Learn, 2nd floor, Big shark business centre",Golf Course Rd file: not a building/major employer
+office_park,CorporatEdge - Godrej GCR,Golf Course Rd file: not a building/major employer
+office_park,Mondelez India Foods Pvt Ltd,Golf Course Rd file: not a building/major employer
+office_park,Trident Group Office,Golf Course Rd file: not a building/major employer
+office_park,Ahuja Residency Pvt. Ltd,Golf Course Rd file: not a building/major employer
+office_park,Google DLF Tower 8C,Golf Course Rd file: not a building/major employer
+office_park,QVC Realty - Gurgaon,Golf Course Rd file: not a building/major employer
+office_park,EFKON India Pvt. Ltd.,Golf Course Rd file: not a building/major employer
+office_park,CPP ASSISTANCE SERVICES PVT LTD.,Golf Course Rd file: not a building/major employer
+office_park,Marriott International,Golf Course Rd file: not a building/major employer
+office_park,BlueStacks,Golf Course Rd file: not a building/major employer
+office_park,InfoEdge Ventures,Golf Course Rd file: not a building/major employer
+office_park,IndiQube Vatika,Golf Course Rd file: not a building/major employer
+office_park,KAI Manufacturing India Pvt. Ltd (Corporate Office),Golf Course Rd file: not a building/major employer
+office_park,OkayGo,Golf Course Rd file: not a building/major employer
+office_park,DLF Infra office,Golf Course Rd file: not a building/major employer
+office_park,Colliers Gurgaon,Golf Course Rd file: not a building/major employer
+office_park,AuthBridge Research Services Private Limited,Golf Course Rd file: not a building/major employer
+office_park,WeWork Two Horizon Centre,Golf Course Rd file: not a building/major employer
+office_park,AuthBridge Corporate,Golf Course Rd file: not a building/major employer
+office_park,AIHP Central,Golf Course Rd file: not a building/major employer
+office_park,DLF Gateway Tower,Golf Course Rd file: not a building/major employer
+office_park,ACE Service Apartments - Golf Course Road Gurgaon,Golf Course Rd file: not a building/major employer
+office_park,Innov8 Orchid Center,Golf Course Rd file: not a building/major employer
+office_park,Paras Healthcare Limited - Corporate Office,Golf Course Rd file: not a building/major employer
+office_park,Olive Studios - Golf Course Road Gurgaon,Golf Course Rd file: not a building/major employer
+office_park,OutdoorMediaPlan,Golf Course Rd file: not a building/major employer
+office_park,Next-Gen Office & Value Assets Private Limited,Golf Course Rd file: not a building/major employer
+office_park,Clock Tower,Golf Course Rd file: not a building/major employer
+office_park,Vero Estate,Golf Course Rd file: not a building/major employer
+office_park,AIHP Tower,Golf Course Rd file: not a building/major employer
+office_park,Parsvnath Exotica A2 Tower,Golf Course Rd file: not a building/major employer
+office_park,Elite Pro Infra,Golf Course Rd file: not a building/major employer
+office_park,Kepler - Paras Twin Tower - Premium Managed Workspaces,Golf Course Rd file: not a building/major employer
+office_park,Uber Corporate Office,Golf Course Rd file: not a building/major employer
+office_park,Office Khojo,Golf Course Rd file: not a building/major employer
+office_park,"Blendr Buzz - Coworking Space, Sector 28, Golfcourse Road",Golf Course Rd file: not a building/major employer
+office_park,PKC Advisory,Golf Course Rd file: not a building/major employer
+office_park,Startup Offices India,Golf Course Rd file: not a building/major employer
+office_park,Bloom - Golf Course Road,Golf Course Rd file: not a building/major employer
+office_park,Oberoi Realty Limited - NCR office,Golf Course Rd file: not a building/major employer
+office_park,Space Matrix,Golf Course Rd file: not a building/major employer
+office_park,Federal-Mogul Goetze (India) Limited,Golf Course Rd file: not a building/major employer
+office_park,Nimai Tower,Golf Course Rd file: not a building/major employer
+office_park,Karo Sambhav Private Limited,Golf Course Rd file: not a building/major employer
+office_park,"Table Space DLF Two Horizon Center Enterprise Managed Office Space in Golf Course Road, Gurugram",Golf Course Rd file: not a building/major employer
+office_park,ibis Gurgaon Golf Course Road,Golf Course Rd file: not a building/major employer
+office_park,The Fundamentum Partnership,Golf Course Rd file: not a building/major employer
+office_park,Suncity Projects,Golf Course Rd file: not an office POI / already in malls
+office_park,Horizon Plaza,Golf Course Rd file: not an office POI / already in malls
+office_park,DLF Exclusive Floors | Sales Office,Golf Course Rd file: not an office POI / already in malls
+office_park,DLF Two Horizon Center,Golf Course Rd file: fewer than 100 reviews
+office_park,AIPL Masterpiece,Golf Course Rd file: fewer than 100 reviews
+office_park,Emaar India - Business Centre,Golf Course Rd file: fewer than 100 reviews
+office_park,Vatika Atrium,Golf Course Rd file: fewer than 100 reviews
+office_park,M3M Urbana Business Park,Golf Course Rd file: duplicate of an existing row
+office_park,DLF One Horizon Center,Golf Course Rd file: duplicate of an existing row
+office_park,Centrum Plaza,Golf Course Rd file: duplicate of an existing row
+office_park,Samsung India Electronics Pvt Ltd (Head Office),Golf Course Rd file: duplicate of an existing row
+office_park,Futures First,Golf Course Rd file: duplicate of an existing row
+office_park,CorporatEdge - Two Horizon Centre,Golf Course Rd file: duplicate of an existing row
+office_park,"DLF Cyber City, Gurugram","Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,"DLF CyberHub (Gurugram, Haryana)","Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,Meetings and Offices Gurgaon,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,DLF Gateway Tower,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,Team Building Pro,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,"Table Space DLF Cyber Greens - Enterprise Managed Office Space in Cyber City, Gurugram","Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,"Table Space DLF Building 8 - Enterprise Managed Office Space in DLF Cyber City, Sector 24, Gurugram","Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,Frontline Business Centre,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,"Table Space DLF Building 10 - Enterprise Managed Office Space, Cyber City, Gurugram","Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,Main Gate DLF Cyber City Building,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,Search My Office,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,DLF Cyber Park - The Auditorium,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,Chaayos Cafe | Infinity Tower | Cyber City,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,Tower A Building 10,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,Infinity Towers Footover Bridge,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,"DLF Rental Business, DLF Cyberpark Gurugram","Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,Table Space DLF Building 5,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,Gurgaon office,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,Gurugram,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,Gurgaon office,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,"DLF Rental Business, DLF Cyberpark Gurugram","Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,Office,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,Corporate Office Space Lease,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,"Gate No. 4, DLF Cyberpark","Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,Sewa Office gurgaon,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,Office,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,Office,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,Office,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,Head Office,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,Office gurgaon,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,"Gate No. 4, DLF Cyberpark","Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,DLF Cyber Park Front Gate,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,DLF Cyber Park - The Auditorium,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,"DLF CyberHub (Gurugram, Haryana)","Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,DLF Cyber Park Exit Gate towards Highway,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,Cyber City park,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,BA Continuum DLF CYBER PARK,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,DLF City Park,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,DLF Cyber Park Highway Gate,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,PARKING AREA PHASE 5,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,"DLF Cyber City, Gurugram","Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,Parking Space for Passport Office Visitors,"Cyber City/Udyog Vihar files: generic, gate, duplicate-listing or non-office row"
+office_park,The Executive Centre - DLF Cyber City,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,The Office Pass,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,"COWRKS Gurgaon, DLF Cybercity Tower 10A",Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,"91Springboard DLF Cyber City, Gurugram",Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,WeWork Building 6,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,Cyber City building number 10 A,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,Innov8 DLF Cyber Green Tower C,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,Skootr Global Private Limited- Cyber City Building 9B,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,Qdesq - Coworking space in DLF cyber city,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,Smartworks RK Four Square,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,"Livance NH-8 - Coworking & Office Space in Cyber City, Gurugram",Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,AECOM India Pvt Ltd,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,"WeWork 9A - Coworking & Office Space in Cyber City, Gurgaon",Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,Statiq Corporate Office,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,Wark office,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,DLF Cyber City,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,Symbyont Smart Spaces,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,ANAROCK Property Consultants,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,"Atrium Place, Gurugram",Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,Mntor,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,Blue Dart Express Ltd,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,Sidel India Pvt. Ltd,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,G S CORPORATE GREENS,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,CDS Corporate Tower,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,Evine Business Services,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,Corporate Flyers Pvt. Ltd.,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,"City Office Centers Pvt Ltd- Furnished Offices, Shared office Spaces, Meeting rooms Udyog Vihar",Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,Richa Global Exports 871,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,"WeWork Atrium Place - Coworking & Office Space in Udyog Vihar, Gurugram",Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,Jaypee Corporate Office,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,Udyog vihar park,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,Park Udyog Vihar Phase 4,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,Knowledge Park,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,It park,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,Park phase 5,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,Cyber Park,Cyber City/Udyog Vihar files: coworking / real estate / hotel / park etc.
+office_park,"DLF Cyber Greens, Cyber City Gurugram",Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,"DLF Forum, Cyber City Gurugram",Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,"DLF Building 8, Cyber City Gurugram",Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,DLF Cyber City Bldg 10,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Google DLF Tower 8C,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,"DLF SEZ Building 6, Gurugram",Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,DLF Building 7B,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,"DLF Infinity Tower C, Gurugram",Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,DLF Cyberpark Tower C Gurugram,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,DLF Cyberpark Tower A Gurugram,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Google DLF Tower 8B,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,DLF Cyber City Building 6A&B,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Altrade Business Centre - DLF Cyber City Gurgaon,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,DLF Building 7A,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,DLF Cyberpark Tower B Gurugram,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Building no 5 dlf epitome,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,DLF Downtown 4 Gurugram,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,IHG IT Services India Private Limited,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Cyber Green Building 5,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,DLF Bldg 9 B,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Pvr Ltd (Corporate Office),Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,DLF Building 6C,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Infinity Tower B,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,DLF office,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,"DLF Infinity Tower B, Gurugram",Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Rackspace India,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Teleperformance Gurugram,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Savills Gurgaon,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Gerson Lehrman Group India Pvt. Ltd.,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Skootr Offices - Infinity Tower A - Cyber City,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Tech Mahindra DLF Cyber City,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,BenQ India,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,AVIZVA Solutions Pvt Ltd,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Hatch,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,"DLF Galaxy Tower, Gurugram",Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Tejas Networks Ltd.,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Samsung Data Systems India Private Limited Gurgaon (Samsung SDS),Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Salesforce,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Signify Innovations India Limited,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Prometric Testing Pvt Ltd.,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,yubi (formerly credavenue),Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Hays business solution,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Nomura Research Institute,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,BT GBS Pvt Ltd,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,"Office No. 709-809, DLF Building Number 9B",Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Anko Sourcing [ Gurugram ],Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Bain Capability Center,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,IAC Group - India Shared Services Centre,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Quest Retail Private limited,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,British Telecom Eservice,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,"Office No. 64, Infinity Tower",Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Building 5a Dlf Cyber City TBH,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Discovery Communications India,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Mahou India Pvt. Ltd.,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Gaurav International Corporate office,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Baani Group - Corporate Office,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Blue Tokai Office,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Udyog vihar phase 4,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Fab Hotels Corporate Office,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Abhishek Group Corporate Office,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Siemens Limited,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,D102 udyog vihar Phase 5 office,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Tapasya Group Corporate Office,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Impressions Services Private Limited,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,"Eastbound Group, 898, Udyog Vihar Phase 1",Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Poshn Corporate Office,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,DLF New Business Center,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,TrueFan Corporate Office,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,DLF Cyberpark Tower C Gurugram,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Shyam and Company of North Pvt. Ltd.,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,ENKAY GLOBAL,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,udyog vihar,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,DLF Cyberpark Tower A Gurugram,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Sec-19 gurgaon,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Nimai Tower,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Creditron Services Private limited,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Comvision India Pvt. Ltd.,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Rolta Tower,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Enkay Condominiums (Corporate Office),Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,"Atrium Place, Gurugram",Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Ecoplug Energy India Limited - Corporate Office,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Agoda Office - India,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Indiabulls Group Of Companies,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Arcos Group of Companies,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Cybiz Coworks,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,DLF Cyberpark Tower B Gurugram,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,JMG TOWER,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Eggspert corporate office,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Udyog vihar,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,JUST OFFICE | Luxury Office Spaces | Built To Suit | Fully Furnished,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,TAG Tower,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,OYO OTA International Corporate Office,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,SGS Weather & Environmental Systems Pvt. Ltd.,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Singh Corporation Gurgaon,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,MBG Corporate Services,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,TBO.COM,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Taikisha Engineering India Pvt. Ltd.,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Kohler Innovation Center,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Capital Business Systems Pvt. Ltd.(Head Office),Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,AIHP Horizon,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,PTC India Limited -Consultancy business,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,LIBSYS Ltd.,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Nipa International (P) Ltd,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,ID Tech Solutions Pvt. Ltd.,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Enkay Square,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Del Monte Foods Pvt Ltd,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Konexions Back Office Services Pvt Ltd,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,CBSL GROUP,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Intellect Design Arena limited,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Campus HQ,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,BAKSON COMPANY,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Prozo - Corporate Office,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Hero IT office,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Tech 4 Logic Pvt Ltd Gurugram,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Philip Morris International - Head office,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Gartner,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,AIHP Milestone,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Algosec,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Reckitt Benckiser India Private Limited,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Roadex office,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,AIHP Palms,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,BunkerFit Corporate HQ,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,WDTS India Private Limited,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,OLX India Corporate Office,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Reckitt Benckiser,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Snapdeal,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Quattro Tech Park,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,IT PARK WOCO,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Woxa IT Park,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,DLF Cyberpark Tower A Gurugram,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,DLF Cyber Park,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,DLF Cyber Park,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,DLF Cyberpark Tower C Gurugram,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Woxa IT Park Tower,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Indiabulls Tech Park,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,DLF Cyberpark Tower B Gurugram,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,Hartron Technology Park,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,quattro tech park,Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,"Ascendas IT Park, Gurgaon",Cyber City/Udyog Vihar files: fewer than 150 reviews (100 for business centres/parks)
+office_park,"DLF Cyberpark, Gurugram",Cyber City/Udyog Vihar files: duplicate listing of a bigger row
+office_park,"DLF Cyberpark, Gurugram",Cyber City/Udyog Vihar files: duplicate listing of a bigger row
+office_park,Orange Business Services,Cyber City/Udyog Vihar files: duplicate listing of a bigger row
+office_park,Expedia Group,Cyber City/Udyog Vihar files: duplicate listing of a bigger row
+office_park,"DLF Atria, Gurugram",Cyber City/Udyog Vihar files: duplicate listing of a bigger row
+office_park,Work IBM,Cyber City/Udyog Vihar files: duplicate listing of a bigger row
+office_park,Bechtel India Private Limited,Cyber City/Udyog Vihar files: duplicate listing of a bigger row
+office_park,Bechtel India Private Limited,Cyber City/Udyog Vihar files: duplicate listing of a bigger row
+office_park,Cyber Greens,Cyber City/Udyog Vihar files: duplicate listing of a bigger row
+office_park,"DLF Epitome Building, Gurugram",Cyber City/Udyog Vihar files: duplicate listing of a bigger row
+office_park,"Building 8, Tower B",Cyber City/Udyog Vihar files: duplicate listing of a bigger row
+office_park,Mindray Medical India Pvt Ltd,Cyber City/Udyog Vihar files: duplicate listing of a bigger row
+office_park,Boston Consulting Group - Advanced Capabilities Center,Cyber City/Udyog Vihar files: duplicate listing of a bigger row
+office_park,Concentrix Infinity,Cyber City/Udyog Vihar files: duplicate listing of a bigger row
+office_park,Kyndryl Solutions Private Limited Building Number 8A DLF,Cyber City/Udyog Vihar files: duplicate listing of a bigger row
+office_park,DLF Cyberpark Tower A Gurugram,replaced by the same building with review data
+hospital,Aakash Healthcare Super Speciality Hospital,outside Gurugram
+hospital,Dr. Sandeep Chauhan : Physiochiro clinic,"clinic / doctor / department, not a hospital"
+hospital,THE ENDOCRINE CLINIC by Dr Manish Srivastava,"clinic / doctor / department, not a hospital"
+hospital,Curelo Health - Full Body Checkups & Blood Tests,"clinic / doctor / department, not a hospital"
+hospital,Jeewan Multi Speciality Centre,"clinic / doctor / department, not a hospital"
+hospital,Gurgaon Nursing Home,"clinic / doctor / department, not a hospital"
+hospital,"Primary Health Centre, WAZIRABAD","clinic / doctor / department, not a hospital"
+hospital,Medsurge India - Medical Value Travel & Healthcare Assistance,"clinic / doctor / department, not a hospital"
+hospital,"Dr. Tushar Mittal - Emergency Care Physician | Medanta Hospitals, Gurugram","clinic / doctor / department, not a hospital"
+hospital,"Dr. Divya Taneja - Doctor | Medanta Hospitals, Gurugram","clinic / doctor / department, not a hospital"
+hospital,"Dr. K. K. Handa - ENT & Head Neck Surgeon | Medanta Hospitals, Gurugram","clinic / doctor / department, not a hospital"
+hospital,"Dr. Sushila Kataria - Internal Medicine Specialist | Medanta Hospitals, Gurugram","clinic / doctor / department, not a hospital"
+hospital,"Dr. Neha Gupta - High-Risk Pregnancy & Robotic Gynaecologist | Medanta Hospitals, Gurugram","clinic / doctor / department, not a hospital"
+hospital,"Dr. Divya Sardana - Top Fertility Specialist in Sector 14, Gurugram | Cloudnine Hospitals","clinic / doctor / department, not a hospital"
+hospital,Sanjeevni Hospital,fewer than 100 reviews (too small)
+hospital,"Vedic Hospital | Best Hospital in Gurugram, Hospital in Gurgaon |Hospital Near me Gurgaon",fewer than 100 reviews (too small)
+hospital,VINAYAK HOSPITAL,fewer than 100 reviews (too small)
+hospital,Glaucoma Surgery Specialists at Eye-Q Hospitals in Gurgaon,fewer than 100 reviews (too small)
+hospital,Narayani Hospital,fewer than 100 reviews (too small)
+hospital,M Goel Hospital,fewer than 100 reviews (too small)
+hospital,Rajendera Hospital,fewer than 100 reviews (too small)
+hospital,Ayushman Hospital & Trauma Centre,fewer than 100 reviews (too small)
+hospital,RR Multispeciality Hospital,fewer than 100 reviews (too small)
+hospital,Apex Hospital,fewer than 100 reviews (too small)
+hospital,Government Hospital,fewer than 100 reviews (too small)
+hospital,Paras Hospital - Department of Oncology,fewer than 100 reviews (too small)
+hospital,Govt. Hospital,fewer than 100 reviews (too small)
+hospital,24/7 Emergency & Ambulance Services in Gurugram - Fortis Hospitals,fewer than 100 reviews (too small)
+hospital,Best Oncology & Cancer Treatment Department | Fortis Hospital Gurugram,duplicate (within 100 m of a bigger/better row)
+hospital,Sarvodya Hospital,duplicate (within 100 m of a bigger/better row)
+hospital,Mamta Hospital,duplicate (within 100 m of a bigger/better row)
+college,"Amity University Gurugram, Haryana",outside Gurugram
+college,Dronacharya College of Engineering,outside Gurugram
+college,Starex University,outside Gurugram
+college,St. Andrews Institute of Technology and Management,outside Gurugram
+college,Global Institute of Technology & Management ( GITM ),outside Gurugram
+college,Sardar Patel College of Education,outside Gurugram
+college,Jhankar College,outside Gurugram
+college,Gurugram Global College of Pharmacy (GGCP),outside Gurugram
+college,Ram Gopal College of Pharmacy,outside Gurugram
+college,"BM College of Pharmacy, Farrukhnagar, Gurugram",outside Gurugram
+college,Vidya Bhavan College of education Khurrampur,outside Gurugram
+college,"Govt. College Sultanpur, Farrukhnagar, Gurugram",outside Gurugram
+college,ICASR Gurgaon Campus (Manesar),outside Gurugram
+college,Rao Ram Singh College Of Education,outside Gurugram
+college,Jhankar College of Pharmacy in Gurugram \ Gurgaon,outside Gurugram
+college,B.ed College in Gurgaon - B.Ed Admission in Gurgaon,outside Gurugram
+college,R. R. College,outside Gurugram
+college,"Amity School of Engineering school + Medical School, Public Health",outside Gurugram
+college,BM College of Education,outside Gurugram
+college,"National Defence University, Bilaspur",outside Gurugram
+college,Samalkha Group Of Institutions,outside Gurugram
+college,Psychologs Magazine,outside Gurugram
+college,"King's College UK, Gurugram",outside Gurugram
+college,Amity College of Nursing,outside Gurugram
+college,Vishwas College Of Education,outside Gurugram
+college,Psychologs Magazine,outside Gurugram
+college,RAO UDMI RAM MEMORIAL COLLEGE OF EDUCATION,outside Gurugram
+college,Starex University Gurugram,outside Gurugram
+college,Amity Institute of Behavioural & Allied Sciences (AIBAS),outside Gurugram
+college,Collegedunia,not a college
+college,"ICASR - MBA, BBA and BCA Program",not a college
+college,CollegeDekho,not a college
+college,Dronacharya Corporate Office,not a college
+college,Gurugram Medical College,not a college
+college,SD College,not a college
+college,NTT College in Gurgaon - Nest Group,not a college
+college,Gurugram Institute of Law -GIL,not a college
+college,Collegesathi Gurgaon,not a college
+college,"Satya School, Gurugram",not a college
+college,Gurugram Global Heights School,not a college
+college,upGrad Study Abroad Consultants - Gurugram,not a college
+college,Central university of Haryana Transit office,not a college
+college,NICS Gurugram,not a college
+college,iON Digital Zone Gurugram,not a college
+college,Virohan | DPG Institute of Technology and Management | Healthcare & Management Programs,"listing / consultant, not a college"
+college,Top MBA Colleges in Gurgaon,"listing / consultant, not a college"
+college,ISBS Gurgaon: MBA Colleges India,"listing / consultant, not a college"
+college,B.Ed Admission in Gurgaon,"listing / consultant, not a college"
+college,Deen Dayal Rustogi College Of Education,fewer than 50 reviews (too small)
+college,Cambridge collegeof education,fewer than 50 reviews (too small)
+college,Maa Saraswati Teacher's Training Institute,fewer than 50 reviews (too small)
+college,Medhavi Skills University Gurugram,fewer than 50 reviews (too small)
+college,College Of Education And Paramedical Courses,fewer than 50 reviews (too small)
+college,Sha-Shib Aerospace Engineering,fewer than 50 reviews (too small)
+college,"Vedam School of Technology, Gurugram Campus",fewer than 50 reviews (too small)
+college,SGT University,fewer than 50 reviews (too small)
+college,"Faculty of Law, SGT University",fewer than 50 reviews (too small)
+college,University Institute Of Law And Management Studies (Uilms),fewer than 50 reviews (too small)
+college,ACMT Group of Colleges,fewer than 50 reviews (too small)
+college,Trishul Defence Academy Gurgaon,fewer than 50 reviews (too small)
+college,Old Science Block (Dronacharya govt. College),fewer than 50 reviews (too small)
+college,Shri Ram College,fewer than 50 reviews (too small)
+college,DCOIL - MBA College in Gurgaon,fewer than 50 reviews (too small)
+college,Tagore Law College,fewer than 50 reviews (too small)
+college,Sushant School of Health Sciences,fewer than 50 reviews (too small)
+college,Trishul Defence Academy Gurgaon,fewer than 50 reviews (too small)
+college,Rachna College of Nursing,fewer than 50 reviews (too small)
+college,IILM School of Design & Fashion,fewer than 50 reviews (too small)
+college,"SGT University, Faculty of Nursing",fewer than 50 reviews (too small)
+college,Sunrise University,fewer than 50 reviews (too small)
+college,Polytechnic College Haryana,fewer than 50 reviews (too small)
+college,IILM Law School,fewer than 50 reviews (too small)
+college,Chaudhary Charan Singh University,fewer than 50 reviews (too small)
+college,IILM School of Humanities & Social Sciences,fewer than 50 reviews (too small)
+college,RR college Gurgaon,fewer than 50 reviews (too small)
+college,Ansal University Enterance,fewer than 50 reviews (too small)
+college,Narayana Schools,"school, not a college"
+college,Narayana Schools,"school, not a college"
+college,Narayana Schools,"school, not a college"
+college,Narayana Schools,"school, not a college"
+college,Narayana Schools,"school, not a college"
+college,DPGITM Engineering College (DPG Institute of Technology & Management),duplicate (within 150 m of a bigger/better row)
+college,"Faculty of Engineering and Technology, SGT University",duplicate (within 150 m of a bigger/better row)
+college,Haryana-IGNOU Community College,duplicate (within 150 m of a bigger/better row)
+college,DPG Polytechnic,duplicate (within 150 m of a bigger/better row)
+college,National Law College,duplicate (within 150 m of a bigger/better row)
+college,Chaudhary Partap Singh Memorial College of Education,duplicate (within 150 m of a bigger/better row)
+metro,Arjan Garh,outside Gurugram
+metro,Sector 37 Gurugram Metro Station,"generic / not a metro station (railway, parking, junction, Delhi side, office)"
+metro,Metro Station,"generic / not a metro station (railway, parking, junction, Delhi side, office)"
+metro,Gurgaon,"generic / not a metro station (railway, parking, junction, Delhi side, office)"
+metro,Gurugram Metro Rail Limited (GMRL],"generic / not a metro station (railway, parking, junction, Delhi side, office)"
+metro,Gurugram Railway Station,"generic / not a metro station (railway, parking, junction, Delhi side, office)"
+metro,Gurgaon Railway Station,"generic / not a metro station (railway, parking, junction, Delhi side, office)"
+metro,Gurugram Railway Station,"generic / not a metro station (railway, parking, junction, Delhi side, office)"
+metro,Gurugram,"generic / not a metro station (railway, parking, junction, Delhi side, office)"
+metro,Rajeev Chowk,"generic / not a metro station (railway, parking, junction, Delhi side, office)"
+metro,Gurugram,"generic / not a metro station (railway, parking, junction, Delhi side, office)"
+metro,Millennium City Centre Metro Parking,"generic / not a metro station (railway, parking, junction, Delhi side, office)"
+metro,MG Road Metro Station,duplicate (within 250 m of a bigger/better row)
+metro,Millennium City Centre Metro Station,duplicate (within 250 m of a bigger/better row)
+chai_point,"Chai Point - Aerocity, New Delhi",outside Gurugram
+chai_point,Chai Point - Delhi Airport T3,outside Gurugram
+chai_point,Chaudhary Chai Point,local stall / not the Chai Point brand
+chai_point,Saini chai point,local stall / not the Chai Point brand
+direct_competitors,Chai Point,duplicate (within 50 m of a bigger/better row)
+indirect_cafes,Starbucks - Manesar,outside Gurugram
+indirect_cafes,Starbucks - Dwarka,outside Gurugram
+indirect_cafes,Starbucks - Vasant Kunj,outside Gurugram
+indirect_cafes,Starbucks,outside Gurugram
+indirect_cafes,93 Degrees Coffee Roasters,other brand (not Starbucks / Third Wave / Blue Tokai)
+indirect_cafes,The Coffee Bean & Tea Leaf,other brand (not Starbucks / Third Wave / Blue Tokai)
+indirect_cafes,BLUE TOKAI COFFEE ROASTERS,fewer than 5 reviews (placeholder / junk listing)
+indirect_cafes,Blue Tokai Coffee Roasters | DLF Galleria 1st Floor,duplicate (within 50 m of a bigger/better row)
