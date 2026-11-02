@@ -66,7 +66,7 @@ All of these numbers are variables at the top of Section 3 of the SQL file, so y
 | 10 | Dreamz Mall | mall | 10.6 | 3.2 km | 0 | 0 |
 
 ## 6. The SQL
-One file, `chaayos_location_analysis.sql`, runs on **MySQL 8** from a blank server (no setup needed):
+One file, `script_chaayos.sql`, runs on **MySQL 8** from a blank server (no setup needed):
 
 * **Part 1:** creates the database and 4 tables, loads all the data and prints row counts.
 * **Part 2:** the full analysis in 6 sections (below). Run the whole file at once, or select one part and press `Ctrl+Shift+Enter` in MySQL Workbench.
@@ -88,10 +88,6 @@ One file, `chaayos_location_analysis.sql`, runs on **MySQL 8** from a blank serv
 * Distances are straight line, not road distance. Gurugram traffic makes 1 km feel much longer.
 * No rent, population or Chaayos sales data was available, so the model cannot predict revenue.
 * Weights are judgement calls. Only the radius was stress-tested.
-
-## 8. What I would do next
-Calibrate the weights against real outlet sales, add rent and residential population, test road-distance catchments, and model how much a new outlet would take from each nearby outlet (a Huff-style share model).
-
 
 
 ---
